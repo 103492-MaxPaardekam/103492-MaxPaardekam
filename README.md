@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👋 About Me<br><br>Hi, I'm Max, a Software Development student from the Netherlands with a passion for AI, automation, and building useful software. I enjoy turning ideas into real projects and I'm always learning something new.
 
 
